@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DeliveryRider</string>
+    <string name="application_name">Pizza Mat</string>
+    <string name="methord_name">PizzaMat Delivery Rider</string>
+    <string name="btn_text2">Be a Member</string>
+    <string name="btn_text1">Login</string>
+    <string name="methord_img">deliveryImage</string>
+    <string name="id">UserID</string>
+    <string name="editTextID">UserID</string>
+    <string name="name">User Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="pword">Enter Password</string>
+    <string name="repword">Re-Enter Password</string>
+    <string name="banner">REGISTER AS PizzaMat DELEVERY RIDER</string>
+    <string name="btnSave">Save</string>
+    <string name="btnView">View</string>
+    <string name="btnDelete">Delete</string>
+    <string name="btnUpdate">Update</string>
+    <string name="loginItxt">Login As Delivery Rider</string>
+</resources>
